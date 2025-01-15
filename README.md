@@ -20,9 +20,8 @@ The original data can be downloaded in following links:
 
 * BUSI Dataset - [Link (Original)](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
 
-  *(Note: The text annotation of QaTa-COV19 train and val datasets [download link](https://1drv.ms/x/s!AihndoV8PhTDkm5jsTw5dX_RpuRr?e=uaZq6W).
-  The partition of train set and val set of QaTa-COV19 dataset [download link](https://1drv.ms/u/s!AihndoV8PhTDgt82Do5kj33mUee33g?e=kzWl8y).
-  The text annotation of QaTa-COV19 test dataset [download link](https://1drv.ms/x/s!AihndoV8PhTDkj1vvvLt2jDCHqiM?e=d5d2hc).)*
+  *(Note: The text annotation of QaTa-COV19 train datasets [download link](https://docs.google.com/spreadsheets/d/11PQ3vwO4ZBJaw5kzAQgpPkB_UaureD5q/edit?usp=drive_link&ouid=105099223925277018244&rtpof=true&sd=true).
+  The text annotation of QaTa-COV19 val datasets [download link](https://docs.google.com/spreadsheets/d/1XyG4uiJ0SLqHIZMquDTV_TEiXAABMgPa/edit?usp=drive_link&ouid=105099223925277018244&rtpof=true&sd=true).)*
   
   *(Note: The text annotation of BUSI train datasets [download link](https://docs.google.com/spreadsheets/d/1_AzOgBZKzgG8E3_LvXR1_wxCPIO4n5I-/edit?usp=sharing&ouid=105099223925277018244&rtpof=true&sd=true).
   The text annotation of BUSI val datasets [download link](https://docs.google.com/spreadsheets/d/1JDpF_EVxOGt5u-hIiSevIBeXQGNe0Np5/edit?usp=sharing&ouid=105099223925277018244&rtpof=true&sd=true).)*
